@@ -17,8 +17,6 @@ clr:		Clears the terminal screen
 myprocess:	Returns the Process ID of the currently running process
 
 allprocesses:	Returns a list of all currently runnning processes and their PIDs using the Linux 'ps' command. For more information, enter 1.
-myprocess
-
 
 chgd [args]:	Changes the currently working directory.
 	Options:
